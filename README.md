@@ -1,4 +1,4 @@
-<a href="https://github.com/BurakQL">
+<a href="https://github.com/thisisburak">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=367FBF&width=435&lines=Hi,+I'm+Burak;Front-End+Developer" alt="Typing SVG" />
 </a>
 
@@ -76,4 +76,4 @@
 
 ### 🐍 Commit Yılanım
 
-<img src="https://github.com/BurakQL/BurakQL/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+<img src="https://github.com/thisisburak/thisisburak/blob/output/github-contribution-grid-snake.svg" alt="snake" />
