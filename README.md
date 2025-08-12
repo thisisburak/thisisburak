@@ -4,10 +4,10 @@
 
 ### 📫 Bana Ulaşın
 
-[![Web Sitem](https://img.shields.io/badge/Web_Sitem-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thisisburak.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/burakql_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakdo%C4%9Fan/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdog5924@gmail.com)
+[![Web Sitem](https://skillicons.dev/icons?i=aboutme)](https://thisisburak.com/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/burakql_/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/burakdo%C4%9Fan/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bdog5924@gmail.com)
 
 
 ---
