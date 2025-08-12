@@ -7,16 +7,16 @@
 ### 📫 Bana Ulaşın
 
 <p>
-  <a href="https://WEBSITENIZ.COM" target="_blank">
+  <a href="https://thisisburak.com/" target="_blank">
     <img src="https://img.shields.io/badge/Web_Sitem-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Web Sitem"/>
   </a>
   <a href="https://www.instagram.com/burakql_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/KULLANICI_ADIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/burakdo%C4%9Fan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:KULLANICI_ADIN@gmail.com">
+  <a href="mailto:bdog5924@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
