@@ -1,25 +1,14 @@
-<a href="https://github.com/thisisburak">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=367FBF&width=435&lines=Hi,+I'm+Burak;Front-End+Developer" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=367FBF&width=435&lines=Hi,+I'm+Burak;Front-End+Developer)](https://github.com/thisisburak)
 
 <br>
 
 ### 📫 Bana Ulaşın
 
-<p>
-  <a href="https://thisisburak.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Web_Sitem-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Web Sitem"/>
-  </a>
-  <a href="https://www.instagram.com/burakql_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/burakdo%C4%9Fan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:bdog5924@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+[![Web Sitem](https://img.shields.io/badge/Web_Sitem-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thisisburak.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/burakql_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakdo%C4%9Fan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdog5924@gmail.com)
+
 
 ---
 
