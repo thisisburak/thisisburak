@@ -58,3 +58,20 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thisisburak)
 
+
+
+### 🛠️ Teknolojiler & Araçlar
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/specs.en.html)
+[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
+[![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop)](https://www.adobe.com/products/photoshop.html)
+
