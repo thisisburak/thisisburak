@@ -75,3 +75,24 @@
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
 [![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop)](https://www.adobe.com/products/photoshop.html)
 
+
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/sass.png" alt="Sass"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/plasticine/48/react.png" alt="React"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js"/>
+</p>
+
+
