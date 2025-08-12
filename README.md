@@ -40,3 +40,21 @@
 ### 🐍 Commit Yılanım
 
 <img src="https://github.com/thisisburak/thisisburak/blob/output/github-contribution-grid-snake.svg?v=1" alt="snake" />
+
+
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/thisisburak)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/burakdo%C4%9Fan/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/burakql_/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bdog5924@gmail.com)
+
+
+[![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)](https://github.com/thisisburak)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/burakdo%C4%9Fan/)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/burakql_/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:bdog5924@gmail.com)
+
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thisisburak)
+
