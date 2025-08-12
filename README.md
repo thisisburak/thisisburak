@@ -41,8 +41,3 @@
 <img src="https://github.com/thisisburak/thisisburak/blob/output/github-contribution-grid-snake.svg?v=1" alt="snake" />
 
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[![React](https://img.shields.io/badge/React-20232A?style=social&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-
-
