@@ -96,3 +96,18 @@
 </p>
 
 
+### ​​ Teknolojiler & Araçlar
+[![HTML5](https://go-skill-icons.vercel.app/api/icons?i=html&theme=light)](https://developer.mozilla.org/...)
+[![CSS3](https://go-skill-icons.vercel.app/api/icons?i=css)](https://www.w3.org/...)
+[![Sass](https://go-skill-icons.vercel.app/api/icons?i=sass)](https://sass-lang.com)
+[![Bootstrap](https://go-skill-icons.vercel.app/api/icons?i=bootstrap)](https://getbootstrap.com)
+[![Tailwind](https://go-skill-icons.vercel.app/api/icons?i=tailwind)](https://tailwindcss.com/)
+[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=javascript)](https://developer.mozilla.org/...)
+[![React](https://go-skill-icons.vercel.app/api/icons?i=react)](https://reactjs.org/)
+[![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs)](https://nextjs.org/)
+[![PHP](https://go-skill-icons.vercel.app/api/icons?i=php)](https://www.php.net)
+[![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql)](https://www.mysql.com/)
+[![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com/)
+[![WordPress](https://go-skill-icons.vercel.app/api/icons?i=wordpress)](https://wordpress.org)
+
+
