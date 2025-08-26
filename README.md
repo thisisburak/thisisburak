@@ -38,7 +38,8 @@
 
 ### 🐍 Commit Yılanım
 
-<img src="https://github.com/thisisburak/thisisburak/blob/output/github-contribution-grid-snake.svg?v=1" alt="snake" />
+![snake gif](https://github.com/thisisburak/thisisburak/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
