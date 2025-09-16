@@ -1,20 +1,21 @@
 name: Generate Snake Animation
 
-# Workflow tetikleyicileri
 on:
+  schedule:
+    - cron: "0 0 * * *"   # Her gün gece 00:00 UTC
+  workflow_dispatch:       # Elle tetikleme
   push:
     branches:
-      - main        # Main branch’e her push sonrası çalışır
-  schedule:
-    - cron: "0 0 * * *"  # Her gün gece 00:00 UTC’de çalışır
-  workflow_dispatch:      # Elle tetiklemeye izin verir
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     permissions:
-      contents: write  # output branch’e push izni
+      contents: write
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout repository
@@ -23,15 +24,13 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=dracula
-            dist/github-contribution-grid-snake-dark.svg?palette=dracula
+          github_user_name: thisisburak
+          outputs: dist/snake.svg
 
       - name: Deploy to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output   # snake.svg dosyasının pushlanacağı branch
-          build_dir: dist         # Platane/snk çıktısı
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
